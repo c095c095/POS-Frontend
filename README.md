@@ -1,3 +1,5 @@
+# คิดว่าสักวันจะว่างมาทำ POS อันนี้ต่อนะ bro
+
 # POSFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
